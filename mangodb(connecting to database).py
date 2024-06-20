@@ -7,7 +7,7 @@ print(mycurs)
 #mycurs.execute("SHOW DATABASES")
 #mycurs.execute("create table users(name varchar(50),email varchar(50),password varchar(50))")
 #sql="insert into users (name,email,password) values(%s,%s,%s)"
-#val=("trisha","trishareddyporalla@gmail.com","trisha@123")
+#val=("sripadh","Sripadh517@gmail.com","Sripadh@2211")
 
 #mycurs.execute(sql,val)
 #mycurs.execute("show tables");
